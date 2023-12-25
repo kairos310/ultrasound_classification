@@ -1,4 +1,4 @@
-# ultrasound_classification
+# Ultrasound Classification Project
 
 display.ipynb 
 basic classifier on raw data, currently overfitting becasue of small dataset
@@ -7,7 +7,6 @@ autoencoder.ipynb
 encode signal into 16 dim latent space, then runs classifier on that
 result is ranking of "important" features
 
-# Ultrasound Classification Project
 
 ## Overview
 The Ultrasound Classification Project is designed for the analysis and classification of ultrasound signals. Utilizing a larger dataset, the project aims to overcome previous challenges like overfitting and to enhance the accuracy and robustness of the classification models.
