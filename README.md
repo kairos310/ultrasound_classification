@@ -1,5 +1,5 @@
 # Ultrasound Classification Project
-
+Authors: Marouf Paul and Kairos Wong
 display.ipynb 
 basic classifier on raw data, currently overfitting becasue of small dataset
 
